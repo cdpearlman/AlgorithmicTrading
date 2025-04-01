@@ -2,3 +2,25 @@ My average results: 2.939087272238854
 Buy and Hold average results: 30.586390102071018 
 Win Rate: 82.66666666666667 
  
+My average results: -4.347349603197797 
+Buy and Hold average results: 29.1662219913435 
+Win Rate: 32.59779984013032 
+ 
+My average results: -18.09572069452397 
+Buy and Hold average results: 148.76469800569123 
+Win Rate: 31.05664950126913 
+ 
+My average results: 0.4431080393697174 
+Buy and Hold average results: 148.3609708758567 
+Win Rate: 44.3556138051551 
+ 
+My average results: -66.68978550721712 
+Buy and Hold average results: 29.120009191844648 
+Win Rate: 19.20760279349727 
+ 
+My average results: -32.312440495859136 
+Buy and Hold average results: 101.48600810906387 
+My average results: -30.030612441602432 
+Buy and Hold average results: 100.92242996375299 
+My average results: -99.84042260011792 
+Buy and Hold average results: 101.48600810906387 
